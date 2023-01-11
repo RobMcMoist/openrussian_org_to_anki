@@ -1,2 +1,2 @@
-# openrussian_org_to_anki
-Loads words from openrussian.org and puts them into an Anki readable format
+# openrussian_to_anki
+Scrape data from openrussian.org and put it into an anki deck
